@@ -1,2 +1,4 @@
 # hello_world
-new repo
+
+This is Celia's readme file.
+I have two cats. They also like programming(my brain).
